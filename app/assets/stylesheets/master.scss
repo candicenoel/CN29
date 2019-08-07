@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Overpass');
-
 @import "bootstrap";
 
 .clear {
@@ -40,6 +38,8 @@
     color: black;
     font-size: 25px;
     border-bottom: 1px solid #dfdfdf;
+    font-family: 'quicksandregular', sans serif;
+    font-weight: bold;
 }
 
 header {
@@ -51,9 +51,11 @@ hr {
 }
 
 h1 {
-    font-family: 'Overpass', sans-serif;
+    font-family: 'quicksandregular', sans-serif;
+    font-weight: bold;
+    font-size: 48px;
 }
 
 h2 {
-    font-family: 'Overpass', sans-serif;
+    font-family: 'quicksandlight', sans-serif;
 }
